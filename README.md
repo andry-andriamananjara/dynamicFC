@@ -4,6 +4,7 @@ The code in this repository is all about the paper **Overlaps in brain dynamic f
 Paper : https://www.biorxiv.org/content/early/2018/08/04/385146
 
 Cite : 
+```
 @article {Andriamananjara385146,
 	author = {Andriamananjara, Andry and Muntari, Rayan and Crimi, Alessandro},
 	title = {Overlaps in Brain Dynamical Functional Connectivity between Schizophrenia and Autism Spectrum Disorder},
@@ -16,3 +17,4 @@ Cite :
 	eprint = {https://www.biorxiv.org/content/early/2018/08/04/385146.full.pdf},
 	journal = {bioRxiv}
 }
+```
