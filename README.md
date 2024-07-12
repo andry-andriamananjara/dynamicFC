@@ -7,6 +7,8 @@ https://github.com/alecrimi/dyfunconnclustering
 ## Data
 Datasets are in `ASD_HarvardOxofordAtlas.zip` and `SZ_dataset_HarvardOxfordAtlas.zip`
 
+## Training
+
 ## Cite
 Paper : https://www.biorxiv.org/content/early/2018/08/04/385146
 
