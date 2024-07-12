@@ -1,6 +1,9 @@
 # dynamicFC
 The code in this repository is all about the paper **Overlaps in brain dynamic functional connectivity between schizophrenia and autism spectrum disorder**
 
+This repository is a clone of the project in
+https://github.com/alecrimi/dyfunconnclustering
+
 ## Cite
 Paper : https://www.biorxiv.org/content/early/2018/08/04/385146
 
