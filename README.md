@@ -8,6 +8,9 @@ https://github.com/alecrimi/dyfunconnclustering
 Datasets are in `ASD_HarvardOxofordAtlas.zip` and `SZ_dataset_HarvardOxfordAtlas.zip`
 
 ## Training
+To train the model with schizophrenia dataset, go to `SZ` folder
+
+To train the model with autism dataset , go to `ASD` folder
 
 ## Cite
 Paper : https://www.biorxiv.org/content/early/2018/08/04/385146
