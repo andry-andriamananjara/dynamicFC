@@ -1,9 +1,9 @@
 # dynamicFC
 The code in this repository is all about the paper **Overlaps in brain dynamic functional connectivity between schizophrenia and autism spectrum disorder**
 
+## Cite
 Paper : https://www.biorxiv.org/content/early/2018/08/04/385146
 
-## Cite
 ```
 @article {Andriamananjara385146,
 	author = {Andriamananjara, Andry and Muntari, Rayan and Crimi, Alessandro},
