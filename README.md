@@ -4,6 +4,9 @@ The code in this repository is all about the paper **Overlaps in brain dynamic f
 This repository is a clone of the project in
 https://github.com/alecrimi/dyfunconnclustering
 
+## Data
+Datasets are in `ASD_HarvardOxofordAtlas.zip` and `SZ_dataset_HarvardOxfordAtlas.zip`
+
 ## Cite
 Paper : https://www.biorxiv.org/content/early/2018/08/04/385146
 
